@@ -1,0 +1,708 @@
+Help, tutorials & documentation
+Follow curated learning pathways to build custom solutions to every day problems.
+101: Introduction
+How to build a connected workspace
+What is artificial intelligence?
+Introduction to Sites
+Projects: Introduction
+Scaling your team: Introduction
+Using data: Introduction
+Get started with templates
+Creating a page
+Intro to databases
+Notion for HR & People operations
+Notion for engineers
+Personal: Creating a page
+Preparing for a refresh
+Notion Admin Overview
+Email us
+team@makenotion.com
+Join our community
+Find any answer
+Hire a Certified Consultant
+Find an expert for your needs
+Company
+Download
+Resources
+Notion for
+----
+Guides
+Company
+Download
+Resources
+Notion for
+----
+Notion Academy
+Get started with Notion for your role or use-case. Follow curated learning pathways to build custom solutions to every day problems.
+Navigate Notion, add blocks, create database views for yourself and small groups of teammates.
+101: Introduction
+Your AI-enabled workspace becomes more powerful when it’s connected, comprehensive, and up-to-date — create systems to get the most out of your investment.
+How to build a connected workspace
+Learn how to use artificial intelligence to improve writing, simplify tasks, and generate text from scratch.
+What is artificial intelligence?
+----
+Any Notion page doubles as a publicly shareable website. Use them for your personal portfolio, startup job board, and much more. Learn how to create, share, and customize a website — including adding your own domain and integrating with google analytics.
+Introduction to Sites
+Set up your Notion project and add tasks. Then, add properties to build custom views, connect GitHub, manage work in sprints, and more.
+Projects: Introduction
+Everything you need to know about content management and sharing in Notion. Start with a deep dive into the sidebar and page sharing, then work your way up to teamspaces and inherited permissions.
+Scaling your team: Introduction
+----
+Work with large data sets in Notion including native databases, 1st party integrations, and link previews.
+Using data: Introduction
+Bust information silos and save valuable time and money by using Notion to replace common workplace tools. Here's just some of the tools and templates in Notion that can get your ideas off the ground.
+Get started with templates
+Build a documentation system for a large company using databases and teamspaces. This course will move from creating pages to creating large databases and administrating teamspaces.
+Creating a page
+Databases are a powerful Notion feature that can unlock your toolmaking potential. Create databases, learn about layout types, and build databases for teams.
+Intro to databases
+----
+Explain how Notion can keep teams on the same page and be able to set up Notion for large teams using teamspaces.
+Notion for HR & People operations
+Build three essential tools for product and engineering teams, and learn how Notion can support technical organizations to plan and execute more efficiently.
+Notion for engineers
+Build 3 essential tools for daily life and explain how Notion can be used to support personal organization.
+Personal: Creating a page
+Without proper maintenance, Notion workspaces can get messy over time. This course is designed to help you put structure and order back into your workspace.
+Preparing for a refresh
+Workspace Refresh course resource
+----
+Notion's Customer Success team has put together a Notion template to accompany this course. Duplicate it into your own Notion workspace and use it to follow along with the steps of the course as you refresh your own workspace.
+Duplicate the template here
+Everything you need to deploy and manage Notion across your organization as an Admin.
+Notion Admin Overview
+Company
+Download
+Resources
+Notion for
+----
+Account settings
+ClickSettings & membersat the top of the left sidebar, then selectMy account.
+Select your current photo or your initial aboveAdd photo. Choose the file you want to use from your device and clickOpen.
+ClickSettings & membersat the top of the left sidebar, then selectMy account.
+UnderPreferred name, enter the name you want to use.
+You can decide if users with your email address can see your name and profile picture when they invite you to a new workspace. To do so:
+SelectSettings & membersat the top of the left sidebar, then selectMy settings.
+----
+UnderPrivacy, findProfile discoverability. Turn this on to make your profile discoverable to people with your email address, or turn it off to hide your profile from people with your email address.
+If you turn profile discoverability on, a user will see this when they invite you to a workspace or a page:
+If you turn profile discoverability off, a user will see this when they invite you to a workspace or page:
+Note:If you’re already part of the same workspace as the user inviting you, or once you’ve joined the workspace, they’ll be able to see your profile.
+ClickSettings & membersat the top of the left sidebar, then selectMy account.
+UnderAccount security, clickChange email.
+From here:
+If you have a Notion password set, enter it.
+----
+If you don’t have a Notion password, we’ll send a verification code to your old email. Enter this into Notion.
+Enter your new email address and clickSend verification code. We’ll send a verification code to your new email.
+Copy the verification code sent to your new email address, paste it into Notion, and clickChange email.
+Tip:If you use a Google account or Apple ID to log into Notion, you can log into Notion directly with Google or Apple.Learn more here →
+If you want to log into Notion using a permanent password instead of temporary login codes:
+ClickSettings & membersat the top of the left sidebar, then selectMy account.
+ClickSet a password.
+----
+Enter a password that meets the security requirements and confirm it. Passwords must be at least eight characters long, with at least three special characters, one letter, and one number.
+If you want to change your password, clickChange password, then enter your current and new password and clickChange password.
+If you want to remove your password, clickChange password→Remove password. This means you’ll have to log in with temporary codes in the future.
+Note:Never share your password with anyone, even Notion support! If someone's claiming to be Notion support and asking for your password, it's not us.
+All passwords are encrypted on our servers, so we don't have access to any password data.
+----
+If you forgot your password,follow the instructions to reset it here →
+ClickSettings & membersat the top of the left sidebar, then selectMy settings.
+UnderDate & time, turn onSet timezone automatically using your locationor set your time zone manually.
+To access even more settings, clickSettings & membersat the top of the left sidebar, then selectMy settings.
+If you're on web andyou want any links to Notion pages to open in your desktop app, toggle onOpen links in desktop app. You'll need to have the desktop app already installed. You’ll also need to go to Notion in your desktop app and ensure thatOpen links in browseris turned off in your settings.
+If you're on the desktop app, you'll be able to control the following settings:
+----
+If you want search to open whenever you create a new tab, toggle onNew Tab Search. This allows you to immediately search for and navigate to a specific page when you open a new tab. If this setting is toggled off, new tabs will display the default page specified in theDefault pagesetting.
+If you want any links to Notion pages to open in your web browser instead of the desktop app, toggle onOpen links in browser. You’ll need to go to Notion in your browser and ensure thatOpen links in desktop appis turned off in your settings.
+----
+If you set up links to open in the desktop app, your browser will open a new tab automatically redirect you to the desktop app every time you click on a link to a Notion page. To have these tabs automatically closed once you’re redirected to the desktop app, toggle onClose redirecting browser tabs.
+If you want to useCommand Search, which allows you to quickly search in Notion while you’re in another app, turn onUse Command Search. Once this setting is turned on, you can also adjust theCommand Search shortcutandNotion AI shortcut, as well as turn onShow Notion in Menu Barso you can get to Notion from the top of your screen.
+----
+You can control what you see in Notion when you start the app. To access these settings, go toSettings & membersin the sidebar →My settings, then scroll down toStartup.
+If you're on web, open the dropdown next toOpen on startandselectHome,Last visited page,Top page in sidebar, orNotion AI.
+If you're on the desktop app, you can:
+Open the dropdownnext toOn startupto chooseContinue where you left off, which will open the tabs you had open right before you last closed the app. Alternatively, you can chooseDefault pageif you’d like to start with the same page every time.
+----
+Default pagelets you select the page that’ll show when you open new windows, switch workspaces, or start the Notion desktop app (if you’ve selectedDefault pageas yourOn startuppage). Open the dropdown and selectHome,Last visited page,Top page in sidebar, orNotion AI.
+You can useContinue with GoogleorContinue with Applefor a faster login as long as your Notion account email is the same as your Google email or Apple ID.
+When you chooseContinue with Googleto login, you'll be asked for your Google password in a pop-up window. If you have 2-step verification enabled for your Google account, you'll need to authenticate with a second device.
+----
+When you chooseContinue with Appleto login, you'll be asked for your Apple ID password in a pop-up window. If you have two-factor authentication enabled for your Apple ID, you'll need to authenticate with a second device.
+If you're usingContinue with Applefor the first time, you'll see two options:
+Share My Email: Choose this option if you want to link your Apple ID with an existing Notion account. If you're creating a new Notion account, we'll use the email associated with your Apple ID as your Notion account email.
+Hide My Email: Choose this option if you want to hide your email from Notion. A brand new account will be created with a unique email such as dpdcnf87nu@privaterelay.appleid.com, which will only work with Notion.
+----
+You won't be able to linkContinue with Applewith an existing Notion account if you chooseHide My Email.
+You'll still receive Notion emails forwarded to the email associated with your Apple ID.
+To stop using Apple with Notion, or to change your email preferences, go to the Apple ID settings on your device.
+Tip:Continue with Appleallows you to use Face ID or Touch ID to log in to Notion!
+You may receive an email alert if you log into Notion from a new device. If you recognize the login, you can ignore the email.
+If you don't recognize the login, you can selectThis was not mein the email. This will log out of the device that was used for the new login and direct you to Notion settings, where you can reset your password or enroll in MFA.
+----
+The approximate location in the new login alert email is based on the IP address. This is just a best estimate of location and may not reflect the true location of the login.
+For security purposes, you can remotely log out of active sessions in Notion. The current session will remain active, but you'll have to log back into Notion on all other devices and instances.
+To log out remotely:
+Click onSettings & membersin the sidebar, thenMy account.
+Scroll down toLog out of all devicesand click the arrow beside it.
+How can I link my existing Notion account with Continue with Apple?
+You can useContinue with Applefor a faster login as long as your Notion account email is the same as your Apple ID.
+----
+For example, if your Apple ID isadalovelace@icloud.com, you can useContinue with Appleto login as long as that's the email you see in theMy accountsection ofSettings & Membersin Notion.
+When you useContinue with Applefor the first time, you'll see two options:Share My EmailandHide My Email. SelectShare My Email, and you should be logged into your Notion account.
+If you selectedHide My Email, you'll need to unlinkContinue with Applefrom your Notion account and start over. To do that, go to the Apple ID section of your device settings, thenPassword & Security.
+I forgot my password. What do I do?
+Follow the instructionshereto reset your Notion password.
+I just got an email saying I changed my email address or password, but I didn't!
+----
+If you receive an unexpected email notifying you of a change to your password, you should reset your password as soon as possible. Follow these steps:
+Navigate tonotion.so/loginin your web browser.
+Click theContinue with emailbutton.
+Enter the email address associated with your Notion account.
+Click theForgot password?button, and then theSend Reset Linkbutton.
+We'll send a link to your email address. When you click that link, you'll be taken toSettings & Membersin your Notion workspace, and your password will be reset.
+Please report any suspicious activity like this to our support team, team@makenotion.com.
+I tried changing my email address but got an error message saying: "A user with this email already exists."
+----
+If you'd like to change your account email to one that already exists within Notion, you can log into the account that holds the email you want and delete that account to free up that email address.
+To delete the account, go toSettings & Membersin the left sidebar, thenMy Account, thenDelete My Account.
+Then log into your current account, and go toSettings & Members, thenMy Account, and selectChange email. You should be able to switch to the freed up email address.
+What if I accidentally deleted something permanently? Any way to get it back?
+----
+If you accidentally delete a page, a workspace, or even your entire account, we can help! Accidents happen 😅 Just send us a message in the app by clicking?at the bottom left on desktop (or in your sidebar on mobile). Or email us atteam@makenotion.com.
+We keep backups of our database, which allows us to restore a snapshot of your content in the past 30 days if you need it.
+Looking to reduce eye fatigue? Want better contrast? Simply prefer an edgier look? Notion comes complete with dark mode 🌒
+Company
+Download
+Resources
+Notion for
+----
+Add and manage integrations
+Note:On Enterprise Plans, the following can be restricted to workspace owners:
+The ability toadd connections
+The ability toinstall workspace-wide security and compliance integrations
+Members can add connections to a workspace inSettings & members→My connections. Workspace owners can add connections to a workspace inSettings & members→Connections. Once a connection is added, it can be added to more pages.
+Connections built with the API follow a similar permission system to the sharing permissions for Notion users. In order to use a connection in your workspace, you'll need to add it to the specific page where it will be active.
+Navigate to a page and select•••at the top right.
+----
+At the bottom of the pop-up, clickAdd connections.
+In the resulting pop-up, search for and select the connection you would like to add to this page. You'll only see connections that have been created for and associated with this workspace.
+The connection will now appear in the•••menu for the page.
+If you want to remove a connection from a page, hover over its name and then pressDisconnect.
+Note:Workspace owners manage all connections in a workspace. For more info,click here.
+In your left sidebar, navigate toSettings & membersand then theConnectionstab.
+Here, you'll see two tabs,MembersandWorkspaces.
+----
+From theMemberstab, you can manage the integrations that members can access in the workspace. Specifically, you can limit integration access to an approved list of integrations, view who is using an internal integration and disconnect the use of any integration in the workspace.
+Note: Only Enterprise Workspace Owners can limit integration access to an approved list of integrations.
+From theWorkspacestab, you can install and manage Security & Compliance integrations for their entire Enterprise workspace.
+Click the•••next to an connection to see additional options:
+Retrieve an internal API token
+Visit the developer's website or contact their support
+View users with access to the connection
+Disconnect the connection
+----
+Notion has partnered directly with several services (such asZapierandTypeform). You can add our partners' public connections to your workspace directly through their sites via OAuth.
+Search forNotionin the partner platform's app menu and add it.
+In the resulting authentication menu, you'll be asked by the partner connection to allow access your workspace. The access levels required by the connection will be specified.
+Connections are workspace-specific! Click the workspace name at the top right to switch to another workspace if needed. Then, pressSelect pages.
+Now, you'll see a list of all of the pages in the selected workspace. Choose the pages you would like the connection to be able to access, and then pressAllow access.
+----
+Once you've completed the authentication, you'll see this connection in your workspace'sSettings & membersmenu →Connections.
+Click the•••menu next to the connection name to visit the developer's website, contact the developer's support team, or disconnect the connection from your workspace.
+Tip:Want to see some partner integrations in action?Check out this guide →
+Some partner platforms require an internal integration token in order to link to your workspace.
+In this case, first follow these instructions to create a corresponding internal integration for your workspace.
+Once you've created the internal integration, navigate toSettings & membersin your sidebar and then theConnectionstab.
+----
+Click the•••menu next to the existing connection that you'd like to link to a partner platform, and pressCopy internal integration token.
+Paste this internal integration token into the corresponding field on the partner platform's set up form.
+Note:Notion does not support troubleshooting for partner integrations. Please direct any feedback and questions to the respective partner's support team.
+With Notion's API, you'll be able to create custom internal integrations. Some of our partners may also require an internal integration token in order to link their platform to your Notion workspace - below, we'll walk you through how to set this up 🏗️
+Company
+Download
+Resources
+Notion for
+----
+Add members, admins, guests & groups
+Note:If you're on the Enterprise plan, the images in this article might look a little different from what you see in Notion. Thanks for your understanding!
+Learn more
+Notion pricing
+Billing, payment, and refunds
+There are several ways users can interact with a Notion workspace:
+Members:People in your company or organization who can create and edit Notion pages, but can’t change any settings. These are colleagues or people who you work with across a large portion of your workspace.
+----
+Guests:People external to your company or organization who can be invited to individual Notion pages, but not an entire workspace. These are people who aren’t part of your team that you may want to work on specific pages with.
+Workspace owners:Admins who can manage workspace settings, delete a workspace, and manage other workspace owners, admins, members, and guests.
+Membership admins (Enterprise plan only):People who can add or remove members from workspaces or groups. They don’t have access to workspace settings.
+----
+Note: Depending on how your workspace owner has adjusted your workspace’s security settings, members may or may not by able to request adding guests or members. Additionally, users may or may not be able to request to be added to a workspace as a member.
+Members are individualsin your company or organization. These could be colleagues at the same organization or people who read, edit, and comment on a lot of the same pages in a workspace.
+To manage your workspace members, go toSettings & members→PeopleorMembers(depending on your plan). Here, you’ll see:
+A list of active members of your workspace.
+What teamspaces and groups they belong to.
+Each member’s role in the workspace.
+----
+Note:On paid plans, you'll be charged per member in your workspace. For more information on plans,go here →
+With email
+Go toSettings & members→PeopleorMembers(depending on your plan).
+Go to theMemberstab.
+SelectAdd membersand type the email address of the person you want to add. If you don't have invite access, you will instead have the option to request to add a member.
+Select whether to add them as aWorkspace owner,Membership admin, orMemberfrom the dropdown, then pressInvite.
+They'll receive an email with a link to sign in and join your workspace.
+Using a link
+Go toSettings & members→PeopleorMembers(depending on your plan).
+Go to theMemberstab.
+----
+SelectCopy linkto copy the secret link to your clipboard, and share with anyone you’d like to invite to work with you.
+When an invited user clicks on the secret link, they'll be able to join your workspace automatically as a paid member, without you having to add their email address manually.
+If you don’t want to be able to invite people to your workspace with a link, turn off the toggle next toInvite link.
+Go toSettings & members→PeopleorMembers(depending on your plan).
+Go to theMemberstab.
+Select the dropdown for a member’s role, then selectWorkspace owner,Membership admin, orMember.
+Go toSettings & members→PeopleorMembers(depending on your plan).
+Go to theMemberstab.
+Depending on your plan:
+----
+Select the dropdown for a member’s role, then selectRemove from workspace.
+Select•••next to a member, then selectRemove from workspace.
+Workspace owners can also remove other workspace owners from the workspace.
+Note:
+When you remove a member from a workspace, that person will instantly lose access to the workspace, and pages from thePrivatesection of their left sidebar will be hidden from view. If you invite that member back to the workspace, their private pages will be unhidden.
+If a user has left and rejoined a workspace within the last 30 days, their private pages, shared pages, group membership, and teamspace membership will be restored upon rejoining the workspace.
+----
+If you're using Notion at your company, you can make it easy for anyone to automatically join your workspace as a member when they sign in with their work email.
+Go toSettings & members→Settings.
+UnderAllowed email domains, enter any email domain that you want to grant access to automatically, like your company's email domain. You can add multiple allowed domains in this field, but you'll only be able to add domains that workspace members' accounts are under.
+Now, whenever someone signs into Notion with an email that has one of those domains, they'll see the option to join your workspace during onboarding. If the user joins your workspace, they will become a member of your workspace and you will be billed accordingly.
+----
+Note:Unlike members,guests are free to invite to your workspace as long as you stay withinyour plan’s guest limit. If your workspace is above this limit, any new users that you share content with will be automatically added as members and not guests if they have the same organization email domain.
+To ensure you’re adding users as guests and not members, you’ll need to remove existing guests so you’re below your limit, upgrade to a plan with a higher limit, or work with our sales team (for eligible customers).
+Guests are individualsexternal to your company or organizationwho you invite into your workspace on a page-by-page basis. For example, guests could be:
+People who have a different organization email domain.
+----
+Contractors or interns who are working with you temporarily.
+Clients who you want to provide feedback on your work.
+Friends, family, or mentors that you want to have contribute to or review your work.
+Guests have the same capabilities as members, except:
+They can't be given workspace-wide access. They must be invited to individual pages in order to view them and their sub-pages.
+They can't create new pages outside of the ones they have access to.
+They can't be added to groups of members.
+They can't adjust workspace settings or billing information.
+They can't add new members to your workspace.
+They can't add new integrations to your workspace.
+On any page you want to share with a guest:
+Go toShareat the top right.
+----
+Enter the email address of any guest you want to invite.
+Select a level of access for that guest from the dropdown and pressInvite.
+SelectSkip for nowto make sure you’re adding them as a guest and not a member.
+They'll receive an email with a link to the page.
+If they don't already use Notion, they can sign up to access your page.
+Note:If you’re on an Enterprise plan and the owner has prevented members from inviting guests to pages, then any people you invite to a page will automatically be added as members. Before you selectInvitein the steps above, you can hover over your guest’s name or email for more information on how that person will be added to the page.
+Allow and approve access requests from guests
+----
+To make it easier for you to add guests to your workspace, Notion also allows people outside of your workspace to request access to certain pages in your workspace. This feature is available and turned on by default for all plans except Enterprise.
+If you’re on a Personal Pro, Plus, or Business plan and you want to turn this setting off:
+OpenSettings & members→Security.
+Toggle offAllow page access requests from non-members.
+Free plans will not be able to turn this feature off.
+Once the guest submits a request to access a page, a notification will be sent to the inbox of the page’s creator. The page creator can approve the request as well as adjust the level of access for that guest, or they can ignore the request.
+----
+Note:When you add someone to a page, they can automatically access all of its sub-pages by default. That being said, you can restrict or expand sub-page permissions!
+Members of a workspace can request to add guests to it. This feature is available on Enterprise plans only, and only workspace owners can enable or disable it.
+Enable guest requests
+Go toSettings & members→Security.
+Make sureDisable members inviting guests to pagesis turned on, then turn onAllow members to request adding guests. Workspace owners canDisable guestswithout removing existing guests from the workspace. They still have the option to remove all existing guests if desired.
+----
+Once this is turned on, members will have to submit a request before they can invite a guest. Workspace owners are exempt and can continue to invite guests directly.
+Note:Allow members to request adding guestsis a workspace level setting, and will override the any teamspace level guest setting. This means if a teamspace allows guests, but the workspace has enabled guest requests, members will have to submit guest invite requests to add guests to pages in the teamspace.
+Request to invite a guest
+If you're a workspace owner,you caninvite guests directly.
+If you're a member:
+Navigate to the page you want to invite a guest to. Just like with regular sharing, you must have full access permissions on the page to request to invite a guest.
+----
+SelectShareand type the name of the guest you want to invite.
+Select the role you want the guest to have.
+SelectInvite.
+A notification will be sent to your workspace owner about your request, along with the page, role and email of the guest you requested. You will also receive confirmation that your workspace owner has been notified.
+Approve a guest
+Guest invite requests must be approved on a per page, per guest basis.Only workspace owners can view and approve guest requests. Each request will have the email of the guest, the member who requested it, the role that was requested, and the name of the page.
+----
+A workspace owner can approve or reject a request to invite a guest directly from the notification they receive, or by going to by going toSettings & members→Members→Guestsand finding the requests at the top. Once a workspace owner responds to a request, the member who submitted will be notified of the decision.
+Once you've added a guest to a page, you can always change their level of access later. To change a guest's access level:
+Go toShareat the top right. You'll see the page's guests listed in the dropdown menu.
+Click the menu to the right of a guest's name. Choose which level of access you want to grant that guest from the following options:
+Full access:They can edit and share the page.
+----
+Can edit:They can edit the page's content, but they can't share the page. (This is not available for guests on the Free plan.)
+Can edit content:This permission level is only found ondatabase pages. They can create and edit pages within the database. They can't change the structure of the database and its properties, views, sorts or filters.Learn more about databases here →
+Can comment:They can only read and comment, not edit or share.
+Can view:They can only view the content, and can't share it.
+Remove:Revokes their access to the page.
+You can see a list of all the guests in your workspace and the pages they each have access by going toSettings & members→PeopleorMembers(depending on your plan) →Guests.
+----
+Under your list of workspace members, find your list of guests.
+To the right, you'll see how many pages each guest has been invited to. Click to see or hop to the pages they can access.
+On any of these pages, you can edit their level of access or remove them.
+Give any guest the ability to access your entire workspace by turning them into a member. On paid plans, you'll be charged for each additional member. To turn a guest into a member:
+Go toSettings & members→PeopleorMembers(depending on your plan) →Guests.
+Check the box next to the guests you want to upgrade.
+SelectUpgrade {#} guest(s) to member.
+Once they become a member, you can find them in your member list and change their role.
+----
+On non-Enterprise plans, we’ll also suggest some guests who might benefit from becoming members in your workspace. To see who these guests are, go toSettings & members→Members→Suggestions. You can selectUpgradeto turn someone into a workspace member.
+To remove a guest from your workspace:
+Go toSettings & members→PeopleorMembers(depending on your plan) →Guests.
+Check the box next to the guests you want to remove from your workspace.
+SelectRemove from workspace.
+To remove a guest from specific pages, you’ll have to go to theSharemenu in each page andRemovethem there.
+----
+You can set varying and granular permissions for different groups and teams without having to divide your people into different workspaces! Instead, create groups inside one workspace and grant them different levels of access page by page. Here's how.
+Note:Guests in your workspace can't be added to groups. This feature is for members only!
+Workspace owners and membership admins can create and edit groups. To do this:
+Go toSettings & members→PeopleorMembers(depending on your plan) →Groups.
+SelectCreate a groupand enter a name for your group. To set an icon for the group, just click the emoji icon that appears on hover.
+Toggle open your new group and selectAdd members.
+Add as many members as you want to any group.
+----
+You can also clickRemoveto the right of any group member.
+Select•••next to a group toRenameit,Create teamspace from group, orDeleteit.
+You can always search someone's name or email to see which group they're in.
+For any page, choose which groups can read, comment, edit, and share it. To share a page with a group:
+ClickShare, thenInvite. You'll see all groups at the bottom of the pop-up.
+Pick a group, then choose what type of access you'd like to give that group from the dropdown:
+Full access:They can edit and share the page.
+Can edit:They can edit the page's content, but they can't share the page. (This is only available on paid plans.)
+Can comment:They can only read and comment, not edit or share.
+----
+Can view:They can only read the content, and can't share it.
+Remove:Revokes their access to the page.
+Once a group has been added, you'll see it in theSharemenu, and you can adjust their access level in the drop-down.
+You can give multiple groups access at any level on the same page.
+Permissions on any page also apply to all of their sub-pages.
+Teamspaces are a dedicated area for every team within your organization or company, and can be customized on an individual basis.Learn more about teamspaces →
+To share a teamspace with groups in your workspace:
+Hover over the name of the teamspace in your sidebar.
+Click the•••button, thenTeamspace settings.
+From here, you'll be able to search and add groups to the teamspace.
+----
+Is there a limit to how many guests I can add?
+See the guest limit for your planhere →
+If your workspace is above the guest limit for yourplan,new users that you share content with can only be added as a member (instead of as a guest) if they belong to your workspace's email domains. This could mean that they have anallowed email domainor an email domain matching the workspace owner’s domain or one of the workspace’sverified domains.
+I clicked the Join or create workspace button, but it will only let me create a workspace. How do I join a workspace?
+----
+You can only join a workspace via theJoin or create workspacebutton if that workspace has theAllowed Email Domainssetting enabled to allow users with your email domain join the workspace automatically.
+Otherwise, you'll need to ask an admin from the workspace to send you an invite.
+How do I share with individuals and not whole groups?
+You can share a private page with individual members of your workspace by clickingShareat the top right and thenInvite a Person. Search for their name, set a level of access for them and pressInvite.
+You can also share a private page with a guest through the same mechanism, only you should type their email instead of searching their name and pressInvite.
+Why do I need to disable workspace-level access?
+----
+You don't have to. Just know that whatever level of access is specified forEveryone at [workspace]is the lowest level of access for everyone in your workspace. If you want some pages to not be visible to certain people, then we recommend disabling it. You can always grant some groups or individuals more access.
+Why are these pages in the Shared section of my left-hand sidebar?
+Those are pages shared with only specific groups or individuals. They aren't visible to the rest of the people in your workspace. In order for pages shared with groups to show up in this part of your sidebar, you need to disableEveryone at [workspace]. Otherwise, everyone in your workspace will still see it.
+----
+As a quick refresher, any page in theWorkspacesection of your sidebar can be viewed in some respect by everyone in your workspace. Any page in thePrivatesection of your sidebar is for your eyes only.
+How can groups be used instead of multiple separate workspaces?
+We've seen people create multiple workspaces instead of groups to set granular permissions. For instance, they create separate workspaces for Design, Marketing, and their executive team so these groups can't access, edit, or get distracted by each other's work. There's a quick workaround for this using groups:
+DisableWorkspace access. That way pages won't show for people and groups who aren't specifically granted access.
+----
+On every page, grant different levels of access per group. Those access levels will hold true for all the sub-pages on that page.
+So, for example, you could have a section of your workspace just for the engineering team. Create a group of all your engineers, then on the top-level page for that team, turn onFull accessfor only that group. Nest pages inside that page, and only the engineering team can access them, too!
+Can I create a shared private page using groups?
+----
+Yes. If you create a page in thePrivatesection of your sidebar, you can go toShareand toggle on access for a group inside your workspace. Choose their access level like you would on any other page. You'll see the page automatically move to theSharedsection of your sidebar. Only you and the members of that group will be able to see it.
+How can I allow members in my workspace to request guests for approval?
+As a workspace owner, you can disable guests for your workspace in yourworkspace security settings, but still allow members to send guest invite requests for review by the workspace owners. This provides a standardized way for guests to get access to content within your workspace, without being an all or nothing approach.
+----
+There's no limit on the number of people who can view and edit the same page or database at the same time. Your team can collaborate on shared content no matter where they are, what time it is, or what device they're using 💼
+Company
+Download
+Resources
+Notion for
+----
+Add security & compliance integrations
+Only Enterprise workspace owners can install workspace-wide security and compliance integrations. To add a security and compliance integration:
+Go toSettings & members→Connections.
+Open theWorkspacetab.
+Your workspace must be on an Enterprise plan.
+Only a Workspace Owner can configure security and compliance integrations for a Notion workspace.
+You must have admin privileges in the partner tool.
+Integrating with a DLP solution will help detect the use of sensitive data in your workspace and take automated action to remediate data breaches quickly by alerting workspace owners, redacting content, or restricting page access.
+Nightfall AI
+----
+In Notion, go toSettings & members→Connections→ open theWorkspacetab.
+SelectConnecton theNightfalltile →Connect to Nightfall.
+Authenticate with your Nightfall credentials.
+You can find additional instructionshere, and learn more about the integrationhere.
+Nightfall AI
+In Notion, go toSettings & members→Connections→ open theWorkspacetab.
+Select•••beside theNightfallintegration →Disconnect.
+In theNightfall application, selectNotioninMy Integrations, and remove the relevant Notion workspace from theWorkspaceslist.
+Integrating with a SIEM solution will bring your Notion audit log information into a shared platform with the rest of your SaaS app logs in order to:
+----
+Provide visibility into Notion user and workspace activity in a third-party audit log for better analysis, searches, and correlations.
+Configure off-the-shelf alerts on unusual user activity in real-time.
+Provide reports and dashboards to support incident investigation.
+Note:On the Notion end, we don’t support connecting to any SIEM partner until the partner instance is ready to handle events.
+Datadog
+In Notion, go toSettings & members→Connections→ open theWorkspacetab.
+SelectConnecton theDatadogtile →Connect to Datadog.
+Note:At this time, one Datadog instance can only be connected to one workspace at most.
+Authenticate with your Datadog credentials by selecting your organization.
+You can find additional instructionshere.
+Panther
+----
+Log into your Panther console.
+In the left side navigation of your Panther Console, selectConfigure→Log Sources→Create New.
+Search forNotion, then select the Notion tile.
+In the slide-out panel, theTransport Mechanismdropdown in the upper right corner will be pre-populated with the HTTP option. SelectSetup.
+FollowPanther's instructions for configuring an HTTP Source.
+Note: You will be required to useHMAC authentication.
+TheHeader Nameassociated with yourSecret Key Valuewill be locked with a value ofx-notion-signature.
+Be sure to securely copy yourSecret Key Valueand store it in a safe location. You'll need this to configure the connection in Notion.
+You can find additional instructionshere.
+Splunk
+----
+Note:Depending on your Splunk instance type, theWebhook URLandSecret codemay vary. Currently, we support Splunk Cloud or Enterprise licenses (not On-Prem).
+RetrieveWebhook URL(HEC URL).
+Log into your Splunk instance.
+Navigate to theSearch & Reportingapp and selectSettings.
+Under theDatasection, click onHTTP Event Collector.
+Locate the desired HEC configuration and select its name, or create a new one.
+On the configuration page, you'll find the HEC URL. Typically, it begins with https:// followed by the hostname or endpoint provided by Splunk, and ends with the HEC token. For example:https://<your-splunk-instance>.splunkcloud.com:8088/services/collector/event
+Retrieve theSecret code(HEC token) and repeat the steps above.
+----
+On the configuration page, you'll find the HEC token, a long alphanumeric string under theTokenfield.
+You can find additional instructionshere.
+Sumo Logic
+Log into your Sumo Logic instance.
+SelectManage Data→Collection.
+Navigate toSetup Wizardand selectGet started.
+When presented withData Type, selectYour Custom App→HTTPS Source.
+Copy theHTTP Source URLinto Notion settings.
+You can find additional instructionshere.
+To set up most of this integration, you will need to manually provide a webhook URL or token.
+Datadog: TheWebhook URLandTokenare not required.
+Panther: Enter the HTTP Source URL in theWebhook URLfield and the HMAC Authentication Secret Key Value in theTokenfield.
+----
+Splunk: Enter the HTTP Event Collector (HEC) URL in theWebhook URLfield and the HTTP Event Collector (HEC) token in theTokenfield.
+Sumo Logic: Enter the HTTP Event Collector (HEC) URL in theWebhook URLfield. A token is required.
+Below is a comprehensive list of webhook events that will be available in your SIEM platform once you set up the Notion SIEM connection. All events available in your SIEM platform will correspond to an audit log event. The glossary will help you understand the specific events that are being tracked and how they relate to your organization's security posture. Use this information to fine-tune your dashboards, alerts, and incident management processes.
+Events are split into five main categories:
+----
+Page events: This includes events users take on a single Notion page.
+Teamspace events: This includes events users take on one or more teamspaces.
+Workspace events: This includes events users take on an entire Notion workspace.
+User events: This includes events about accounts of users in the workspace.
+Integration events:This includes events about internal integrations associated with the workspace.
+For page events, the page audience describes the visibility level of the target page. The audience captured will be one of the following:
+Private: The page is not shared with other users.
+Internal: The page is shared with other members of the workspace only.
+----
+External: The page is shared with one or more guests outside of the workspace and/or with an integration bot.
+Public: The page is shared to the web.
+Workspace
+workspace.audit_log_exported: A workspace owner exported the workspace’s audit log.
+workspace.content_analytics_exported: A workspace owner exported workspace content analytics.
+workspace.content_exported: Workspace content for a page or for the entire workspace was exported by a workspace user.
+workspace.content_search_exported: The results of acontent searchfor a workspace was exported by a workspace owner.
+----
+workspace.content_search_queried: A workspace owner used theadmin content searchfunctionality to find workspace content. Content searches can retrieve content from public and private pages.
+workspace.domain_management.transfer_request_status_updated: A transfer request for a workspace created by a user with a verified domain was updated. (Seethis articlefor more information.)
+workspace.external_account_connected: A public/external integration was connected to the workspace.
+workspace.external_account_disconnected: A public/external integration was disconnected from the workspace, or a workspace owner removed access to a public integration for all users in the workspace.
+----
+workspace.group.permissions.member_added: A workspace owner or membership admin added a new member to a group. A group is a defined collection of workspace members.
+workspace.group.permissions.member_removed: A workspace owner or membership admin removed a member from a group.
+workspace.integration_added: An integration was added to the workspace for the first time. (This event will only be emitted the first time an integration is added to a workspace.)
+workspace.integration_removed: All bots for a specific public integration are removed.
+workspace.members_exported: A list of workspace members was exported.
+----
+workspace.membership_request_resolved: A membership request from a member to add a new person to the workspace was resolved, i.e. the workspace owner either approved or denied the request.
+workspace.permissions.guest_removed: A guest was removed from the workspace by a workspace owner or membership admin.
+workspace.permissions.member_added: A user accepted an invite to join a new workspace and have been added to the member list.
+workspace.permissions.member_invited: A user was invited to a workspace by a workspace owner or membership admin.
+workspace.permissions.member_removed: A member was removed from the workspace by a workspace owner or membership admin.
+----
+workspace.permissions.member_role_updated: A member’s role in a workspace was updated. Roles include Member, Membership Admin, Workspace Owner.
+workspace.private_content_transferred: The private content of a deprovisioned workspace member was transferred to a new location. Enterprise workspace owners cantransfer contentfrom deprovisioned users.
+workspace.saml_sso_idp_metadata_url_added: The IdP (Identity Provider) metadata URL was added by a workspace owner.
+workspace.saml_sso_idp_metadata_url_updated: The IdP (Identity Provider) metadata URL was updated by a workspace owner.
+workspace.saml_sso_idp_metadata_xml_added: The IdP (Identity Provider) metadata XML (Extensible Markup Language) was added by a workspace owner.
+----
+workspace.saml_sso_idp_metadata_xml_removed: The IdP (Identity Provider) metadata XML (Extensible Markup Language) was removed by a workspace owner.
+workspace.saml_sso_idp_metadata_xml_updated: The IdP (Identity Provider) metadata XML (Extensible Markup Language) was updated by a workspace owner.
+Teamspace
+teamspace.archived: A teamspace was archived.
+teamspace.created: A teamspace was created.
+teamspace.permissions.custom_group_role_added: A teamspace owner added custom permissions for a group that is added to the teamspace.
+teamspace.permissions.custom_group_role_removed: A teamspace owner removed custom permissions for a group that is added to the teamspace.
+----
+teamspace.permissions.custom_group_role_updated: A teamspace owner updated custom permissions for a group that is added to the teamspace.
+teamspace.permissions.custom_member_role_added: A teamspace owner added custom page permissions for a specific teamspace member.
+teamspace.permissions.custom_member_role_removed: A teamspace owner removed custom page permissions for a specific teamspace member.
+teamspace.permissions.custom_member_role_updated: A teamspace owner updated custom page permissions for a specific teamspace member.
+teamspace.permissions.default_member_role_updated: The default teamspace page permissions applied to teamspace members was updated.
+----
+teamspace.permissions.default_workspace_role_added: A teamspace owner gave page permissions to workspace users in a closed teamspace.
+teamspace.permissions.default_workspace_role_removed: A teamspace owner removed page permissions from workspace users in a closed teamspace.
+teamspace.permissions.default_workspace_role_updated: A teamspace owner updated the default page permissions for all workspace users in a teamspace.
+teamspace.permissions.group_added: A group was added to a teamspace. A group is a defined collection of users.
+teamspace.permissions.group_removed: A group was removed from the teamspace by a teamspace owner.
+----
+teamspace.permissions.member_added: A user was added to the teamspace. The user either joined an open teamspace or was added by another member. The event payload will specify “as Teamspace owner” if the user was added with teamspace owner privileges.
+teamspace.permissions.member_removed: A teamspace member was removed from the teamspace. Removal can be triggered by a member leaving or being removed by a teamspace owner.
+teamspace.permissions.member_role_updated: A teamspace member’s role was updated. Roles include Teamspace Member and Teamspace Owner.
+teamspace.restored: A previously archived teamspace was restored.
+----
+teamspace.settings.allow_content_export_setting_updated: The setting to allow exporting teamspace content was enabled or disabled.
+teamspace.settings.allow_guests_setting_updated: A teamspace owner enabled or disabled the ability to add guests (non-members) to a specific teamspace.
+teamspace.settings.allow_public_page_sharing_setting_updated: The setting to allow publicly sharing a teamspace page was enabled or disabled by a workspace owner.
+teamspace.settings.allow_sidebar_editing_setting_updated: The setting that determines who can edit the sidebar was updated. The setting will indicate if any teamspace member can edit the sidebar or if editing is only available for teamspace owners.
+----
+teamspace.settings.default_setting_updated: The teamspace’s default permissions settings were updated.
+teamspace.settings.description_updated: The teamspace description was updated.
+teamspace.settings.icon_updated: The teamspace icon was updated.
+Page
+page.button_automation_created: A repeatingbuttonautomation was created on a page.
+page.button_automation_updated: A repeatingbuttonautomation was updated on a page.
+page.content_edited: The content of an existing page was edited by a user. Page content is also known as ablock. Content edit events are consolidated into one event every minute while edits are occurring.
+page.created: A new page nested under a parent page was created by a user.
+----
+page.deleted: A page was deleted by a user. Deleted pages may be restored in the future.
+page.discussion.comment.created: A comment on a page was created by a user.
+page.discussion.comment.deleted: A comment on a page was deleted by a user.
+page.discussion.comment.updated: A comment on a page was edited by a user. Comment edit events are consolidated into one event every minute while edits are occurring.
+page.exported: A page was exported to a PDF, HTML, or Markdown file by a user.
+page.file_deleted: A file was deleted from the page by a user.
+page.file_downloaded: A file in a page was downloaded or opened by a user.
+page.file_uploaded: A file was uploaded to a page by a user.
+----
+page.moved: A page was relocated by a user, i.e. the page’s parent page updated.
+page.permissions.group_role_added: A workspace group’s page permissions were added, which will allow them to access the page.
+page.permissions.group_role_removed: A group’s page permissions were removed for a page, which will restrict them from having access to the page.
+page.permissions.group_role_updated: A workspace group’s page permissions were updated, changing their type of access.
+page.permissions.guest_role_added: A guest’s page permissions were added, which will allow them to access the page.
+page.permissions.guest_role_removed: A guest’s page permissions were removed, which will restrict them from having access to the page.
+----
+page.permissions.guest_role_updated: A guest’s page permissions were updated, changing their type of access.
+page.permissions.integration_role_added: A user added anintegrationto a page. Integrations of any type — internal or public/external — will trigger this event.
+page.permissions.integration_role_removed: A user removed the page permissions for an integration (or “connection”), which will restrict the integration from having access to the page. Integrations of any type — internal or public/external — will trigger this event.
+page.permissions.integration_role_updated: A user updated the page permissions of an integration (or “connection”). Integrations of any type — internal or public/external — will trigger this event.
+----
+page.permissions.member_role_added: A member’s page permissions were added, which will allow them to access the page.
+page.permissions.member_role_removed: A member’s page permissions were removed, which will restrict them from having access to the page.
+page.permissions.member_role_updated: A member’s page permissions were updated, changing their type of access.
+User and account
+user.deleted: A user account was deleted. This event will be sent to any workspace with which the account is associated.
+user.login: A user logged into an account.
+user.logout: A user logged out of an account.
+----
+user.settings.analytics_tracking_setting_updated: A user changed the setting to track whether their workspace or page activity is recorded in workspace analytics.
+user.settings.email_updated: A user updated their email in the account settings.
+user.settings.login_method.mfa_backup_code_updated: A user updated their MFA (Multi-Factor Authentication) back-up code settings.
+user.settings.login_method.mfa_sms_updated: A user updated their MFA (Multi-Factor Authentication) SMS (Short Message Service) settings.
+user.settings.login_method.mfa_totp_updated: A user updated their MFA (Multi-Factor Authentication) TOTP (Time-based One-Time Password) settings.
+----
+user.settings.login_method.password_added: A user added a password to their account for login purposes.
+user.settings.login_method.password_removed: A user removed a password from their account.
+user.settings.login_method.password_updated: A user updated their password.
+user.settings.preferred_name_updated: A user updated their preferred name in the account settings.
+user.settings.profile_photo_updated: A user updated their profile photo in the account settings.
+user.settings.support_access_granted: Notion’s support team was granted temporary access to the user’s account.
+user.settings.support_access_revoked: Support access to the user’s account was revoked.
+Integration
+----
+integration.created: A developer created an internal integration and associated it with the workspace.
+integration.deleted: An internal integration associated with the workspace was deleted. Deletions can occur in the My Integrations dashboard, or an admin can remove access to an internal integration for all users.
+integration.secret_reset: The authentication secret for an internal integration was reset (or “refreshed”).
+If your policy content lives in Notion, you can connect Notion with Drata to manage that content. Changes you make to policies in Notion will be synced with Drata.
+Note:
+For the best experience, try to avoid using database blocks in Notion pages that you sync with Drata.
+You can’t sync any private Notion pages to Drata.
+----
+If a policy stored in Notion is deleted by a user, you’ll be prompted to import a new file in Drata.
+To integrate Notion with Drata:
+In Notion, go toSettings & members→Connections→ open theWorkspacetab.
+SelectConnecton theDratatile.
+Give Drata permission to access your Notion workspace, then selectAllow access.
+Learn more about the integrationhere →
+I just made updates to a page, but I didn't receive a Slack notification.
+There's a five minute delay built in to prevent these notifications from getting too noisy!Let us knowif you still aren't seeing them show up! We'll help out.
+I'm trying to enable the integration in Slack's App Directory, but it just takes me to Notion's homepage.
+----
+Sorry for the confusion 🙈You can't enable the integration from Slack. You'll need to turn it on inside Notion with the instructions on this page.
+What permissions are granted when the Slack integration is enabled?
+Notion's integration with Slack operates on a per-page basis. When you enable the Slack integration for a specific page in your Notion workspace, you're granting Notion access to publish updates to the Slack channel of your choosing.
+Can I add more than one login for a link preview integration?
+You can! You can do so viaSettings & Members→My connected apps. For the desired integration, select “Connect another account”.
+----
+Note: Some applications do not support multi-account login in the browser (e.g. GitHub), so you might need to logout of whichever account is currently logged in on your browser to be prompted to login with a different account.
+We’ll determine which of your accounts to use to preview given resources and show an error if none of them are successful.
+I’m receiving a general  “Can’t load preview” error in my link preview.
+Run through these steps to try to resolve.
+Confirm you’ve authenticated with the correct account for the resource.
+Confirm no access restrictions for your organization.
+----
+Delete your integration in Notion via theMy connected appssettings. You may also want to revoke the integration the corresponding platform:GitHub,Jira,Slack,Asana,Trello.
+Try to unfurl again.
+Finally, if all else fails, reach out to support! Unfortunately, we cannot help resolve errors related toAccess deniedorContent not found.Please provide the following information when reaching out to support:
+Integration you’re trying to use
+Error message and code
+URL you’re trying to preview (if possible)
+I’m receiving an “Access denied” or “Content not found” error in my link preview.
+There are two possible reasons for this:
+----
+You may not have authenticated with the account that has access. You can connect multiple accounts either throughSettings & Members→My connected apps, or the error drop down.
+Your organization may have limited access to content via 3rd party integrations or IP addresses. Please confirm with your workspace or organization administrator and ask to have Notion’s integration approved if this is the case. Here are instructions for specific integrations:GitHub,Jira,Slack,Asana,Trello.
+What do connections have access to in my workspace?
+SIEM integrations will be authorized to receive event logs on all workspace activity.
+DLP integrations will be authorized:
+to receive event logs on all workspace activity.
+----
+to view content, view comments, edit content, edit comments, and create comments inallpages.
+to see basic information about all workspace members and guests, including their names, profile images, and email addresses.
+I’m not seeing SIEM events even after connecting. What should I do?
+Sometimes, the event may appear under a different label or in a different place than where you expect. We recommend triggering a new page event and querying in your SIEM querying language fortype: "page.created"oremail: "[your email address]"for all events triggered by you.
+When a new Pantherinstance is created, it can take up to 10 minutes for it to be fully ready to receive events.
+What happens to my SIEM events if my SIEM provider has an outage?
+----
+In the event of an outage, you should reach out to your SIEM provider for more information.
+Why can’t I connect more than one instance of the same SIEM provider?
+SIEM provider can only be connected to a single Notion workspace at this time.
+Having trouble setting up your SIEM connections? Here are some common issues.
+Incorrect webhook URL
+Incorrect HMAC or HEC token
+Do not have admin privileges in your SIEM provider
+SIEM provider is an on-prem instance
+Enterprise workspace owners have control over when users’ pages are deleted from Trash, and how long they can be retained for afterwards 🗑️
+Company
+Download
+Resources
+Notion for
+----
+Content search
+As a workspace owner, you can selectSettings & membersin the sidebar and then scroll toContent search.
+You’ll see a search bar with different filtering options. Search for a page by entering either the it's title, ID, or page content.
+You’ll also see:
+Where a page lives and whether a page isprivate, shared internally, shared externally, or shared to web.
+The page creator, creation date and a list of people who can access the page.
+Who last edited the page and when.
+Workspace owners can also export this data as a .csv file.
+Note:TheAudiencecolumn will always list the most permissive group. If a page is shared with another team member, but also shared externally, the audience will read:Shared externally.
+----
+There might be some cases where, as an admin, you need un-publish or revoke permissions. Try using theAudienceorShared withfilters to find pages that might be inappropriately shared. As a workspace owner, you can also change access to a restricted page.
+Click the•••menu to the right of any page title, or while on a restricted page.
+SelectChange permissions.
+Change access as needed.
+Note:Using this feature may provide workspace owners with access to the personal data of workspace members and guests. Please consult with your own legal counsel to obtain advice regarding privacy and data protection laws.
+----
+This article outlines how a Workspace owner can transfer content from a member who has been deprovisioned from an Enterprise Plan workspace 📖
+Company
+Download
+Resources
+Notion for
+----
