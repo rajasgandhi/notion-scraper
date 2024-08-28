@@ -84,7 +84,7 @@ UnderPreferred name, enter the name you want to use.
 You can decide if users with your email address can see your name and profile picture when they invite you to a new workspace. To do so:
 SelectSettings & membersat the top of the left sidebar, then selectMy settings.
 ----
-UnderPrivacy, findProfile discoverability. Turn this on to make your profile discoverable to people with your email address, or turn it off to hide your profile from people with your email address.
+Under Privacy, find Profile discoverability. Turn this on to make your profile discoverable to people with your email address, or turn it off to hide your profile from people with your email address.
 If you turn profile discoverability on, a user will see this when they invite you to a workspace or a page:
 If you turn profile discoverability off, a user will see this when they invite you to a workspace or page:
 Note:If you’re already part of the same workspace as the user inviting you, or once you’ve joined the workspace, they’ll be able to see your profile.
@@ -125,8 +125,8 @@ If you're on web, open the dropdown next toOpen on startandselectHome,Last visit
 If you're on the desktop app, you can:
 Open the dropdownnext toOn startupto chooseContinue where you left off, which will open the tabs you had open right before you last closed the app. Alternatively, you can chooseDefault pageif you’d like to start with the same page every time.
 ----
-Default pagelets you select the page that’ll show when you open new windows, switch workspaces, or start the Notion desktop app (if you’ve selectedDefault pageas yourOn startuppage). Open the dropdown and selectHome,Last visited page,Top page in sidebar, orNotion AI.
-You can useContinue with GoogleorContinue with Applefor a faster login as long as your Notion account email is the same as your Google email or Apple ID.
+Default page lets you select the page that’ll show when you open new windows, switch workspaces, or start the Notion desktop app (if you’ve selectedDefault pageas yourOn startuppage). Open the dropdown and selectHome,Last visited page,Top page in sidebar, orNotion AI.
+You can useContinue with GoogleorContinue with Apple for a faster login as long as your Notion account email is the same as your Google email or Apple ID.
 When you chooseContinue with Googleto login, you'll be asked for your Google password in a pop-up window. If you have 2-step verification enabled for your Google account, you'll need to authenticate with a second device.
 ----
 When you chooseContinue with Appleto login, you'll be asked for your Apple ID password in a pop-up window. If you have two-factor authentication enabled for your Apple ID, you'll need to authenticate with a second device.
